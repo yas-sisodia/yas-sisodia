@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yashsisodia701@gmail.com**
 
-- ⚡ Fun fact **I like to watch watch Holliwood Web-Series**
+- ⚡ Fun fact **I like to watch Web-Series**
 
 ## 🚀 Languages and Tools:
 
