@@ -1,7 +1,7 @@
 <a href="#"><img width="100%"  src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="400px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash</h1>
-<h3 align="center">I'm a enthusiastic about technologics.</h3>
+<h3 align="center">I'm enthusiastic about technologics.</h3>
 
 
 ## 🙋‍♂️ About Me
